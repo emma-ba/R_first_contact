@@ -1,0 +1,271 @@
+"","Header","Activities","Periods","Labour","Output","ValueAdded"
+"1","Environmental domains, total","Total sector environment",2001,123.2,19730,9109
+"2","Environmental domains, total","Total sector environment",2002,125.9,20979,9582
+"3","Environmental domains, total","Total sector environment",2003,125.5,21704,9884
+"4","Environmental domains, total","Total sector environment",2004,120.6,21993,10217
+"5","Environmental domains, total","Total sector environment",2005,118.6,22684,10734
+"6","Environmental domains, total","Total sector environment",2006,125.1,24655,11697
+"7","Environmental domains, total","Total sector environment",2007,127,26399,12424
+"8","Environmental domains, total","Total sector environment",2008,129.1,29044,13658
+"9","Environmental domains, total","Total sector environment",2009,133.9,28403,13476
+"10","Environmental domains, total","Total sector environment",2010,135.6,30060,14522
+"11","Environmental domains, total","Total sector environment",2011,139.7,32532,15318
+"12","Environmental domains, total","Total sector environment",2012,135.4,33347,15417
+"13","Environmental domains, total","Total sector environment",2013,138.4,33956,15496
+"14","Environmental domains, total","Total sector environment",2014,137.6,35049,16200
+"15","Environmental domains, total","Total sector environment",2015,140,35694,16737
+"16","Environmental domains, total","Energy systems and energy conservation",2001,12.9,3317,1158
+"17","Environmental domains, total","Energy systems and energy conservation",2002,13.7,3595,1254
+"18","Environmental domains, total","Energy systems and energy conservation",2003,13.4,3697,1253
+"19","Environmental domains, total","Energy systems and energy conservation",2004,13.5,3462,1241
+"20","Environmental domains, total","Energy systems and energy conservation",2005,13.2,3413,1220
+"21","Environmental domains, total","Energy systems and energy conservation",2006,13.1,3515,1184
+"22","Environmental domains, total","Energy systems and energy conservation",2007,14.2,3993,1304
+"23","Environmental domains, total","Energy systems and energy conservation",2008,16,4762,1524
+"24","Environmental domains, total","Energy systems and energy conservation",2009,16.6,4395,1476
+"25","Environmental domains, total","Energy systems and energy conservation",2010,17.5,4512,1588
+"26","Environmental domains, total","Energy systems and energy conservation",2011,18.6,5042,1652
+"27","Environmental domains, total","Energy systems and energy conservation",2012,19.6,5382,1731
+"28","Environmental domains, total","Energy systems and energy conservation",2013,21.8,5973,1949
+"29","Environmental domains, total","Energy systems and energy conservation",2014,21.7,6399,2110
+"30","Environmental domains, total","Energy systems and energy conservation",2015,23.8,7291,2498
+"31","Environmental domains, total","Production of renewable energy",2001,0.8,156,107
+"32","Environmental domains, total","Production of renewable energy",2002,0.9,193,135
+"33","Environmental domains, total","Production of renewable energy",2003,0.9,239,165
+"34","Environmental domains, total","Production of renewable energy",2004,1,476,364
+"35","Environmental domains, total","Production of renewable energy",2005,1.2,906,740
+"36","Environmental domains, total","Production of renewable energy",2006,1.3,1015,823
+"37","Environmental domains, total","Production of renewable energy",2007,1.5,1035,780
+"38","Environmental domains, total","Production of renewable energy",2008,1.8,1389,1077
+"39","Environmental domains, total","Production of renewable energy",2009,2.1,1696,1226
+"40","Environmental domains, total","Production of renewable energy",2010,2.2,1778,1113
+"41","Environmental domains, total","Production of renewable energy",2011,2.3,2235,1278
+"42","Environmental domains, total","Production of renewable energy",2012,2.5,3087,1316
+"43","Environmental domains, total","Production of renewable energy",2013,2.6,3062,1387
+"44","Environmental domains, total","Production of renewable energy",2014,2.6,3287,1629
+"45","Environmental domains, total","Production of renewable energy",2015,2.8,3316,1770
+"46","Environmental domains, total","Environmental engineering activities.",2001,2.5,368,102
+"47","Environmental domains, total","Environmental engineering activities.",2002,2.5,389,106
+"48","Environmental domains, total","Environmental engineering activities.",2003,3,564,153
+"49","Environmental domains, total","Environmental engineering activities.",2004,2.7,622,165
+"50","Environmental domains, total","Environmental engineering activities.",2005,2.6,597,155
+"51","Environmental domains, total","Environmental engineering activities.",2006,2.7,802,182
+"52","Environmental domains, total","Environmental engineering activities.",2007,2.7,788,175
+"53","Environmental domains, total","Environmental engineering activities.",2008,2.6,814,175
+"54","Environmental domains, total","Environmental engineering activities.",2009,2.6,800,176
+"55","Environmental domains, total","Environmental engineering activities.",2010,2.7,681,143
+"56","Environmental domains, total","Environmental engineering activities.",2011,2.6,705,151
+"57","Environmental domains, total","Environmental engineering activities.",2012,2,579,128
+"58","Environmental domains, total","Environmental engineering activities.",2013,2.2,662,167
+"59","Environmental domains, total","Environmental engineering activities.",2014,2.1,779,179
+"60","Environmental domains, total","Environmental engineering activities.",2015,2,592,132
+"61","Environmental domains, total","Environmental consultancy, engineering",2001,8.8,955,496
+"62","Environmental domains, total","Environmental consultancy, engineering",2002,9.5,1068,548
+"63","Environmental domains, total","Environmental consultancy, engineering",2003,8.7,996,514
+"64","Environmental domains, total","Environmental consultancy, engineering",2004,9.4,1096,563
+"65","Environmental domains, total","Environmental consultancy, engineering",2005,9,1057,545
+"66","Environmental domains, total","Environmental consultancy, engineering",2006,10,1204,627
+"67","Environmental domains, total","Environmental consultancy, engineering",2007,10.1,1262,671
+"68","Environmental domains, total","Environmental consultancy, engineering",2008,10.9,1433,804
+"69","Environmental domains, total","Environmental consultancy, engineering",2009,10.3,1280,708
+"70","Environmental domains, total","Environmental consultancy, engineering",2010,10.9,1513,823
+"71","Environmental domains, total","Environmental consultancy, engineering",2011,10.5,1430,780
+"72","Environmental domains, total","Environmental consultancy, engineering",2012,10.2,1434,742
+"73","Environmental domains, total","Environmental consultancy, engineering",2013,10,1406,751
+"74","Environmental domains, total","Environmental consultancy, engineering",2014,9.7,1426,760
+"75","Environmental domains, total","Environmental consultancy, engineering",2015,9.7,1430,761
+"76","Environmental domains, total","Production of industrial envir equipment",2001,5.4,1288,383
+"77","Environmental domains, total","Production of industrial envir equipment",2002,5.7,1436,397
+"78","Environmental domains, total","Production of industrial envir equipment",2003,5.6,1432,393
+"79","Environmental domains, total","Production of industrial envir equipment",2004,5.1,1337,355
+"80","Environmental domains, total","Production of industrial envir equipment",2005,5.6,1545,385
+"81","Environmental domains, total","Production of industrial envir equipment",2006,5.8,1579,418
+"82","Environmental domains, total","Production of industrial envir equipment",2007,5.8,1625,419
+"83","Environmental domains, total","Production of industrial envir equipment",2008,5.9,1674,393
+"84","Environmental domains, total","Production of industrial envir equipment",2009,5.8,1316,420
+"85","Environmental domains, total","Production of industrial envir equipment",2010,5.9,1408,467
+"86","Environmental domains, total","Production of industrial envir equipment",2011,6.1,1629,494
+"87","Environmental domains, total","Production of industrial envir equipment",2012,5.8,1588,445
+"88","Environmental domains, total","Production of industrial envir equipment",2013,5.8,1614,462
+"89","Environmental domains, total","Production of industrial envir equipment",2014,5.7,1678,495
+"90","Environmental domains, total","Production of industrial envir equipment",2015,5.7,1729,500
+"91","Environmental domains, total","Organic agriculture",2001,2,296,113
+"92","Environmental domains, total","Organic agriculture",2002,2,308,110
+"93","Environmental domains, total","Organic agriculture",2003,2.1,308,110
+"94","Environmental domains, total","Organic agriculture",2004,2,308,102
+"95","Environmental domains, total","Organic agriculture",2005,2,318,109
+"96","Environmental domains, total","Organic agriculture",2006,1.9,352,125
+"97","Environmental domains, total","Organic agriculture",2007,1.9,371,117
+"98","Environmental domains, total","Organic agriculture",2008,2,405,113
+"99","Environmental domains, total","Organic agriculture",2009,2.1,385,102
+"100","Environmental domains, total","Organic agriculture",2010,2.3,477,146
+"101","Environmental domains, total","Organic agriculture",2011,2.7,501,124
+"102","Environmental domains, total","Organic agriculture",2012,2.8,545,135
+"103","Environmental domains, total","Organic agriculture",2013,2.9,597,166
+"104","Environmental domains, total","Organic agriculture",2014,2.9,573,168
+"105","Environmental domains, total","Organic agriculture",2015,3,565,162
+"106","Environmental domains, total","Preparation for recycling",2001,2.8,853,263
+"107","Environmental domains, total","Preparation for recycling",2002,3,926,289
+"108","Environmental domains, total","Preparation for recycling",2003,3.1,1011,343
+"109","Environmental domains, total","Preparation for recycling",2004,3,1177,398
+"110","Environmental domains, total","Preparation for recycling",2005,3,1279,416
+"111","Environmental domains, total","Preparation for recycling",2006,2.9,1482,520
+"112","Environmental domains, total","Preparation for recycling",2007,2.9,1556,504
+"113","Environmental domains, total","Preparation for recycling",2008,3,1720,508
+"114","Environmental domains, total","Preparation for recycling",2009,3.1,1525,430
+"115","Environmental domains, total","Preparation for recycling",2010,3.2,1873,497
+"116","Environmental domains, total","Preparation for recycling",2011,3.6,2333,627
+"117","Environmental domains, total","Preparation for recycling",2012,3.9,2389,658
+"118","Environmental domains, total","Preparation for recycling",2013,4,2212,601
+"119","Environmental domains, total","Preparation for recycling",2014,4,2191,642
+"120","Environmental domains, total","Preparation for recycling",2015,4,2289,666
+"121","Environmental domains, total","Wholesale trade in waste and scrap",2001,5.5,1334,1064
+"122","Environmental domains, total","Wholesale trade in waste and scrap",2002,5,1310,1026
+"123","Environmental domains, total","Wholesale trade in waste and scrap",2003,4.9,1214,955
+"124","Environmental domains, total","Wholesale trade in waste and scrap",2004,4.9,1367,1096
+"125","Environmental domains, total","Wholesale trade in waste and scrap",2005,5,1446,1174
+"126","Environmental domains, total","Wholesale trade in waste and scrap",2006,5.3,1636,1331
+"127","Environmental domains, total","Wholesale trade in waste and scrap",2007,5.3,1753,1444
+"128","Environmental domains, total","Wholesale trade in waste and scrap",2008,5.4,1801,1478
+"129","Environmental domains, total","Wholesale trade in waste and scrap",2009,5.2,1464,1156
+"130","Environmental domains, total","Wholesale trade in waste and scrap",2010,5.6,2384,1998
+"131","Environmental domains, total","Wholesale trade in waste and scrap",2011,5.7,2531,2144
+"132","Environmental domains, total","Wholesale trade in waste and scrap",2012,5.7,2636,2256
+"133","Environmental domains, total","Wholesale trade in waste and scrap",2013,5.5,2075,1755
+"134","Environmental domains, total","Wholesale trade in waste and scrap",2014,5.4,2040,1735
+"135","Environmental domains, total","Wholesale trade in waste and scrap",2015,5.3,1956,1642
+"136","Environmental domains, total","Environmental inspection, certification",2001,0.8,92,50
+"137","Environmental domains, total","Environmental inspection, certification",2002,0.9,111,62
+"138","Environmental domains, total","Environmental inspection, certification",2003,1.2,148,84
+"139","Environmental domains, total","Environmental inspection, certification",2004,1.2,165,94
+"140","Environmental domains, total","Environmental inspection, certification",2005,1.4,194,113
+"141","Environmental domains, total","Environmental inspection, certification",2006,1.3,194,113
+"142","Environmental domains, total","Environmental inspection, certification",2007,1.4,209,123
+"143","Environmental domains, total","Environmental inspection, certification",2008,1.7,236,139
+"144","Environmental domains, total","Environmental inspection, certification",2009,2.2,314,183
+"145","Environmental domains, total","Environmental inspection, certification",2010,2.2,314,181
+"146","Environmental domains, total","Environmental inspection, certification",2011,2.3,316,178
+"147","Environmental domains, total","Environmental inspection, certification",2012,2.5,331,192
+"148","Environmental domains, total","Environmental inspection, certification",2013,2,288,167
+"149","Environmental domains, total","Environmental inspection, certification",2014,2.1,269,156
+"150","Environmental domains, total","Environmental inspection, certification",2015,2.4,318,184
+"151","Environmental domains, total","Education about the environment",2001,0.6,62,50
+"152","Environmental domains, total","Education about the environment",2002,0.6,61,49
+"153","Environmental domains, total","Education about the environment",2003,0.6,60,49
+"154","Environmental domains, total","Education about the environment",2004,0.5,58,46
+"155","Environmental domains, total","Education about the environment",2005,0.5,55,43
+"156","Environmental domains, total","Education about the environment",2006,0.4,52,40
+"157","Environmental domains, total","Education about the environment",2007,0.4,52,40
+"158","Environmental domains, total","Education about the environment",2008,0.4,55,42
+"159","Environmental domains, total","Education about the environment",2009,0.4,57,44
+"160","Environmental domains, total","Education about the environment",2010,0.4,61,47
+"161","Environmental domains, total","Education about the environment",2011,0.4,63,49
+"162","Environmental domains, total","Education about the environment",2012,0.5,66,52
+"163","Environmental domains, total","Education about the environment",2013,0.5,70,55
+"164","Environmental domains, total","Education about the environment",2014,0.5,74,58
+"165","Environmental domains, total","Education about the environment",2015,0.5,79,62
+"166","Environmental domains, total","Second-hand shops (not antiques)",2001,1.2,91,46
+"167","Environmental domains, total","Second-hand shops (not antiques)",2002,1.4,117,54
+"168","Environmental domains, total","Second-hand shops (not antiques)",2003,1.7,125,59
+"169","Environmental domains, total","Second-hand shops (not antiques)",2004,1.4,122,55
+"170","Environmental domains, total","Second-hand shops (not antiques)",2005,1.7,121,62
+"171","Environmental domains, total","Second-hand shops (not antiques)",2006,1.4,100,51
+"172","Environmental domains, total","Second-hand shops (not antiques)",2007,1.3,97,53
+"173","Environmental domains, total","Second-hand shops (not antiques)",2008,1.6,112,55
+"174","Environmental domains, total","Second-hand shops (not antiques)",2009,1.9,118,59
+"175","Environmental domains, total","Second-hand shops (not antiques)",2010,1.9,148,71
+"176","Environmental domains, total","Second-hand shops (not antiques)",2011,2,180,85
+"177","Environmental domains, total","Second-hand shops (not antiques)",2012,1.9,170,95
+"178","Environmental domains, total","Second-hand shops (not antiques)",2013,2,167,93
+"179","Environmental domains, total","Second-hand shops (not antiques)",2014,2.1,165,95
+"180","Environmental domains, total","Second-hand shops (not antiques)",2015,1.9,180,92
+"181","Environmental domains, total","Ideological environmental organisations",2001,2.5,182,110
+"182","Environmental domains, total","Ideological environmental organisations",2002,2.2,173,104
+"183","Environmental domains, total","Ideological environmental organisations",2003,2.5,206,123
+"184","Environmental domains, total","Ideological environmental organisations",2004,2.6,229,133
+"185","Environmental domains, total","Ideological environmental organisations",2005,2.7,249,142
+"186","Environmental domains, total","Ideological environmental organisations",2006,2.4,236,133
+"187","Environmental domains, total","Ideological environmental organisations",2007,2.4,238,134
+"188","Environmental domains, total","Ideological environmental organisations",2008,3,303,166
+"189","Environmental domains, total","Ideological environmental organisations",2009,3,313,177
+"190","Environmental domains, total","Ideological environmental organisations",2010,2.8,287,166
+"191","Environmental domains, total","Ideological environmental organisations",2011,2.6,277,163
+"192","Environmental domains, total","Ideological environmental organisations",2012,2.6,291,171
+"193","Environmental domains, total","Ideological environmental organisations",2013,2.5,302,174
+"194","Environmental domains, total","Ideological environmental organisations",2014,2.5,312,180
+"195","Environmental domains, total","Ideological environmental organisations",2015,2.5,333,194
+"196","Environmental domains, total","Insulation activities constr. industry",2001,20.9,1836,850
+"197","Environmental domains, total","Insulation activities constr. industry",2002,19.3,1752,828
+"198","Environmental domains, total","Insulation activities constr. industry",2003,15.8,1478,706
+"199","Environmental domains, total","Insulation activities constr. industry",2004,13.3,1246,590
+"200","Environmental domains, total","Insulation activities constr. industry",2005,12.5,1219,577
+"201","Environmental domains, total","Insulation activities constr. industry",2006,14.7,1509,707
+"202","Environmental domains, total","Insulation activities constr. industry",2007,15.9,1770,823
+"203","Environmental domains, total","Insulation activities constr. industry",2008,15.9,1922,894
+"204","Environmental domains, total","Insulation activities constr. industry",2009,16.1,1898,902
+"205","Environmental domains, total","Insulation activities constr. industry",2010,16.8,1902,867
+"206","Environmental domains, total","Insulation activities constr. industry",2011,20.2,2311,1028
+"207","Environmental domains, total","Insulation activities constr. industry",2012,17.5,2120,926
+"208","Environmental domains, total","Insulation activities constr. industry",2013,18,2219,977
+"209","Environmental domains, total","Insulation activities constr. industry",2014,19.2,2442,1128
+"210","Environmental domains, total","Insulation activities constr. industry",2015,19.4,2614,1232
+"211","Environmental domains, total","Water quantity man. by Water Authorities",2001,3.4,588,353
+"212","Environmental domains, total","Water quantity man. by Water Authorities",2002,3.9,666,400
+"213","Environmental domains, total","Water quantity man. by Water Authorities",2003,4,772,443
+"214","Environmental domains, total","Water quantity man. by Water Authorities",2004,3.8,780,454
+"215","Environmental domains, total","Water quantity man. by Water Authorities",2005,3.8,776,462
+"216","Environmental domains, total","Water quantity man. by Water Authorities",2006,3.7,792,461
+"217","Environmental domains, total","Water quantity man. by Water Authorities",2007,3.5,819,457
+"218","Environmental domains, total","Water quantity man. by Water Authorities",2008,3.5,865,476
+"219","Environmental domains, total","Water quantity man. by Water Authorities",2009,3.6,916,496
+"220","Environmental domains, total","Water quantity man. by Water Authorities",2010,3.9,991,554
+"221","Environmental domains, total","Water quantity man. by Water Authorities",2011,3.9,1072,597
+"222","Environmental domains, total","Water quantity man. by Water Authorities",2012,3.9,1112,623
+"223","Environmental domains, total","Water quantity man. by Water Authorities",2013,4,1138,654
+"224","Environmental domains, total","Water quantity man. by Water Authorities",2014,4.1,1176,692
+"225","Environmental domains, total","Water quantity man. by Water Authorities",2015,4.1,1251,759
+"226","Environmental domains, total","Specialised producers of env. services",2001,21.4,4141,1544
+"227","Environmental domains, total","Specialised producers of env. services",2002,22.2,4418,1650
+"228","Environmental domains, total","Specialised producers of env. services",2003,23,4643,1773
+"229","Environmental domains, total","Specialised producers of env. services",2004,22.2,4616,1706
+"230","Environmental domains, total","Specialised producers of env. services",2005,22,4495,1684
+"231","Environmental domains, total","Specialised producers of env. services",2006,21.6,4657,1801
+"232","Environmental domains, total","Specialised producers of env. services",2007,21.9,4932,1983
+"233","Environmental domains, total","Specialised producers of env. services",2008,22.1,5511,2262
+"234","Environmental domains, total","Specialised producers of env. services",2009,23,5425,2166
+"235","Environmental domains, total","Specialised producers of env. services",2010,22.8,5324,2067
+"236","Environmental domains, total","Specialised producers of env. services",2011,22.8,5545,2082
+"237","Environmental domains, total","Specialised producers of env. services",2012,21.8,5249,1964
+"238","Environmental domains, total","Specialised producers of env. services",2013,21.6,5451,2024
+"239","Environmental domains, total","Specialised producers of env. services",2014,21.9,5585,2072
+"240","Environmental domains, total","Specialised producers of env. services",2015,21.8,5428,1976
+"241","Environmental domains, total","Other governmental activities",2001,25.8,3269,1937
+"242","Environmental domains, total","Other governmental activities",2002,26.7,3491,2047
+"243","Environmental domains, total","Other governmental activities",2003,28.5,3743,2227
+"244","Environmental domains, total","Other governmental activities",2004,27.8,3835,2296
+"245","Environmental domains, total","Other governmental activities",2005,26.3,3890,2316
+"246","Environmental domains, total","Other governmental activities",2006,29.9,4318,2546
+"247","Environmental domains, total","Other governmental activities",2007,29.6,4587,2722
+"248","Environmental domains, total","Other governmental activities",2008,27.6,4683,2829
+"249","Environmental domains, total","Other governmental activities",2009,29.8,5049,3008
+"250","Environmental domains, total","Other governmental activities",2010,28.6,5001,3054
+"251","Environmental domains, total","Other governmental activities",2011,27.8,4949,3160
+"252","Environmental domains, total","Other governmental activities",2012,26.7,4944,3249
+"253","Environmental domains, total","Other governmental activities",2013,27.3,5289,3373
+"254","Environmental domains, total","Other governmental activities",2014,25.7,5290,3388
+"255","Environmental domains, total","Other governmental activities",2015,25.5,5045,3459
+"256","Environmental domains, total","Water quality management",2001,6,902,482
+"257","Environmental domains, total","Water quality management",2002,6.4,966,522
+"258","Environmental domains, total","Water quality management",2003,6.6,1068,534
+"259","Environmental domains, total","Water quality management",2004,6.3,1097,558
+"260","Environmental domains, total","Water quality management",2005,6.4,1124,589
+"261","Environmental domains, total","Water quality management",2006,6.5,1214,634
+"262","Environmental domains, total","Water quality management",2007,6.2,1314,676
+"263","Environmental domains, total","Water quality management",2008,5.8,1360,721
+"264","Environmental domains, total","Water quality management",2009,6.1,1452,747
+"265","Environmental domains, total","Water quality management",2010,5.9,1406,742
+"266","Environmental domains, total","Water quality management",2011,5.6,1412,726
+"267","Environmental domains, total","Water quality management",2012,5.6,1424,734
+"268","Environmental domains, total","Water quality management",2013,5.7,1432,741
+"269","Environmental domains, total","Water quality management",2014,5.5,1363,712
+"270","Environmental domains, total","Water quality management",2015,5.3,1279,649
