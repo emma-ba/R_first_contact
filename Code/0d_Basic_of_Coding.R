@@ -1,4 +1,3 @@
-
 ###########################
 ### BASICS OF CODING
 ###########################
@@ -14,6 +13,60 @@ if( credit <= 0 ){
   print('You have enough credit')
 }
 
+###### Boolean
+d <- TRUE
+print(d)
+print(!d)
+
+as.numeric(d)
+as.character(d)
+
+as.logical('TRUE')
+as.logical(0)
+
+###### Use of booleans for tests
+d <- 100
+d == 100
+d == 200
+d = 200
+print(d)
+d > 10
+d < 100
+
+if( d > 0 ){
+  print('The test was passed!')
+} 
+
+d <- FALSE
+
+if( d ){
+  print('The test was passed!')
+} else {
+  print('The test has failed...')
+}
+
+if( !d ){
+  print('The test was passed!')
+} 
+
+############ EXERCIZE #####
+# 
+# Given someone's age, for example:
+# age <- 17
+# age <- 72
+# Make a test (with if-then-else) that tells you when someone is minor 
+# (less than 18 year old)
+#
+# SOLUTION:
+# if( age < 18) {
+#   print("This person is minor.")
+# } else {
+#   print("This person is adult.")
+# }
+#
+###########################
+
+
 ###### Loop
 participants <- c('Anthony', 'Barbara', 'Charlotte', 'Daniel')
 
@@ -22,7 +75,7 @@ for(p in participants){
 }
 
 for(i in 1:10){
-  print(2*i)
+  print(i)
 }
 print(i)
 

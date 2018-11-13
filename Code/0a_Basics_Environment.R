@@ -23,9 +23,11 @@ install.packages('tidyverse')
 
 # First check if a library is installed, or else we will re-installing it
 if(!require('tidyverse')) install.packages('tidyverse')
+if(!require('stringr')) install.packages('stringr')
 
 ###### Load a library
 library(tidyverse) 
+library(stringr) 
 
 # You need to load it every time you execute R code.
 

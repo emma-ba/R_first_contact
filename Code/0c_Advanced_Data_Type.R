@@ -2,7 +2,7 @@
 ### ADVANCED DATA TYPES
 ###########################
 
-###### Vector
+###### Vector ###### 
 d <- c(1:100)
 print(d)
 typeof(d)
@@ -17,7 +17,7 @@ typeof(d)
 d <- paste(d, 'Juice')
 print(d)
 
-###### Dataframe
+###### Table of data ###### 
 user1 <- c('Anthony', 'Red', 'Apple', 'Dog')
 user2 <- c('Barbara', 'Blue', 'Carrot', 'Cat')
 user3 <- c('Charlotte' ,'Black', 'Orange', 'Pig')
@@ -36,7 +36,7 @@ print(d)
 rownames(d) <- c('Name', 'Color', 'Food', 'Animal')
 print(d)
 
-# Reverse
+# Reverse Column <-> Rows
 d <- t(d)
 print(d)
 
@@ -52,21 +52,31 @@ print(d)
 
 # Browse data
 d[1,]
-d[,1]
+d[,1] 
 d[1,1]
 d[2:3,]
+d[2:3,c(1,2,4)]
 
-print(d$Name)
+###### Data frame ###### 
 d <- data.frame(d)
+print(d)
+
+# Browse data with column name
 print(d$Name)
 print(d$Name[2])
+
+# Add column
+d$Age <- c(11,14,21,34)
+print(d)
+
+# Using data frame allow different data type 
+typeof(d$Age)
+typeof(d$ID)
+d$ID <- as.numeric(d$ID)
 
 # Data types in data frames
 typeof(d$ID)
 d$ID <- as.numeric(d$ID)
-
-d$Age <- c(11,14,21,34)
-print(d)
 typeof(d$Age)
 
 # Use filters to browse data frames
@@ -75,9 +85,10 @@ d$Animal == 'Cat'
 d[d$Animal == 'Cat', ]
 d$Animal[d$Animal == 'Cat']
 
+
 ############ EXERCIZE #####
 # 
-# Filter the data frame to find the users that are minor
+# Filter the data frame to select only the users that are minor
 #
 # SOLUTION:
 # d$Age 
